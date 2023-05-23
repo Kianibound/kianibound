@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehsan Kiani</h1>
-<h3 align="center">Frontend developer that want develop a life!</h3>
+<h3 align="center">Frontend developer that wants develop a life!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kianibound&label=Profile%20views&color=0e75b6&style=flat" alt="kianibound" /> </p>
 
