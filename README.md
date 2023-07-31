@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ehsankni92" target="blank"><img src="https://img.shields.io/twitter/follow/ehsankni92?logo=twitter&style=for-the-badge" alt="ehsankni92" /></a> </p>
 
-- 🔭 I’m currently working on **Flash Learn**
-
 - 🌱 I’m currently learning **TypeScript and Nextjs**
 
-- 👯 I’m looking to collaborate on **Flash Learn**
+- 👯 I’m looking to collaborate on **Flash Learn Project**
 
 - 🤝 I’m looking for help with **Flash Learn**
-
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
-
-- 📝 I regularly write articles on [medium](medium)
 
 - 💬 Ask me about **everything except programming :)**
 
